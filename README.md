@@ -1,11 +1,10 @@
-<p align="center"><img src="screenshots/joomia.png" alt="Joomia" height="100px"></p>
+<p align="center"><img src="screenshots/ic_launcher.png" alt="Joomia" height="100px"></p>
 
 # Dooka  App🛒
 A shopping app built with Jetpack Compose consuming [FAKE STORE API](https://fakestoreapi.com/)
 
 ## Note:
 - The API has some endpoints that does nothing i.e adding item to cart, registering a user and many more. So some screens have UI implementation but no logic
-- Contributions are welcomed, because the app is far away from being good 😂
 
 ## To Login - use :
     - Username: johnd
@@ -17,14 +16,6 @@ A shopping app built with Jetpack Compose consuming [FAKE STORE API](https://fak
 - Add payment screen
 - Add more implementation to the account screen
 
-## Demo
-<img src="screenshots/splash.png" width="250"/> <img src="screenshots/auth.png" width="250"/>
-
-<img src="screenshots/register.png" width="250"/> <img src="screenshots/login.png" width="250"/>
-
-<img src="screenshots/home.png" width="250"/> <img src="screenshots/details.png" width="250"/> <img src="screenshots/wishlist.png" width="250"/>
-
-<img src="screenshots/cart.png" width="250"/> <img src="screenshots/account.png" width="250"/>
 
 
 ## Tech Stack.
